@@ -1,5 +1,3 @@
 # Coder-Test
-jkbdjgfaskdfgk
-dsadad
-utjgkfgsdkfh
-asdfasfasdfasdf
+
+This is a coder test
